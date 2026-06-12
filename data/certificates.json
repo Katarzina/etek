@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ytong-realizace",
+    "image": "/images/certificates/cert-ytong-realizace.png",
+    "translations": {
+      "cs": { "title": "YTONG – Realizace staveb", "description": "Certifikát Xella CZ s.r.o. potvrzující splnění podmínek pro realizaci staveb se stavebním systémem YTONG s odbornou garancí TZÚS. (2015)" },
+      "en": { "title": "YTONG – Construction Execution", "description": "Certificate from Xella CZ s.r.o. confirming fulfillment of conditions for construction using the YTONG building system with TZÚS expert guarantee. (2015)" },
+      "uk": { "title": "YTONG – Будівництво", "description": "Сертифікат Xella CZ s.r.o., що підтверджує виконання умов будівництва за системою YTONG з експертною гарантією TZÚS. (2015)" },
+      "ru": { "title": "YTONG – Строительство", "description": "Сертификат Xella CZ s.r.o., подтверждающий выполнение условий строительства по системе YTONG с экспертной гарантией TZÚS. (2015)" }
+    }
+  },
+  {
+    "id": "xella-ytong-zakladni",
+    "image": "/images/certificates/cert-xella-ytong-zakladni.png",
+    "translations": {
+      "cs": { "title": "Xella Ytong – základní školení", "description": "Osvědčení o absolvování základního školení stavebního systému Ytong od společnosti Xella CZ s.r.o. Ing. Evžen Bajer, E-Tek Group s.r.o. (2021)" },
+      "en": { "title": "Xella Ytong – Basic Training", "description": "Certificate of completion of basic training on the Ytong building system by Xella CZ s.r.o. Ing. Evžen Bajer, E-Tek Group s.r.o. (2021)" },
+      "uk": { "title": "Xella Ytong – базове навчання", "description": "Свідоцтво про проходження базового навчання будівельної системи Ytong від компанії Xella CZ s.r.o. (2021)" },
+      "ru": { "title": "Xella Ytong – базовое обучение", "description": "Свидетельство о прохождении базового обучения строительной системы Ytong от компании Xella CZ s.r.o. (2021)" }
+    }
+  },
+  {
+    "id": "xella-ytong-pokrocile",
+    "image": "/images/certificates/cert-xella-ytong-pokrocile.png",
+    "translations": {
+      "cs": { "title": "Xella Ytong – pokročilé školení", "description": "Osvědčení o absolvování pokročilého školení stavebního systému Ytong od společnosti Xella CZ s.r.o. Ing. Evžen Bajer, E-Tek Group s.r.o. (2021)" },
+      "en": { "title": "Xella Ytong – Advanced Training", "description": "Certificate of completion of advanced training on the Ytong building system by Xella CZ s.r.o. Ing. Evžen Bajer, E-Tek Group s.r.o. (2021)" },
+      "uk": { "title": "Xella Ytong – поглиблене навчання", "description": "Свідоцтво про проходження поглибленого навчання будівельної системи Ytong від Xella CZ s.r.o. (2021)" },
+      "ru": { "title": "Xella Ytong – продвинутое обучение", "description": "Свидетельство о прохождении продвинутого обучения строительной системы Ytong от Xella CZ s.r.o. (2021)" }
+    }
+  },
+  {
+    "id": "knauf-sucha-vystavba",
+    "image": "/images/certificates/cert-knauf-sucha-vystavba.png",
+    "translations": {
+      "cs": { "title": "Knauf – Systémy suché výstavby", "description": "Osvědčení o absolvování základního školení k montáži a servisu produktů Knauf zaměřeného na systémy suché výstavby. (2016)" },
+      "en": { "title": "Knauf – Dry Construction Systems", "description": "Certificate of completion of basic training on installation and servicing of Knauf products focused on dry construction systems. (2016)" },
+      "uk": { "title": "Knauf – Системи сухого будівництва", "description": "Свідоцтво про проходження базового навчання з монтажу та обслуговування продуктів Knauf для систем сухого будівництва. (2016)" },
+      "ru": { "title": "Knauf – Системы сухого строительства", "description": "Свидетельство о прохождении базового обучения по монтажу и обслуживанию продуктов Knauf в области систем сухого строительства. (2016)" }
+    }
+  },
+  {
+    "id": "knauf-pozarni",
+    "image": "/images/certificates/cert-knauf-pozarni.png",
+    "translations": {
+      "cs": { "title": "Knauf – Protipožární konstrukce", "description": "Certifikát KNAUF Praha na montáž protipožárních konstrukcí sádrokartonového systému dle vyhl. MV č. 246/2001. Platnost do 19.06.2027. (č. K-C-2024/11745)" },
+      "en": { "title": "Knauf – Fire-Resistant Structures", "description": "KNAUF Praha certificate for installation of fire-resistant gypsum board constructions per decree MV No. 246/2001. Valid until 19.06.2027. (No. K-C-2024/11745)" },
+      "uk": { "title": "Knauf – Вогнестійкі конструкції", "description": "Сертифікат KNAUF Praha на монтаж вогнестійких гіпсокартонних конструкцій. Дійсний до 19.06.2027. (№ K-C-2024/11745)" },
+      "ru": { "title": "Knauf – Противопожарные конструкции", "description": "Сертификат KNAUF Praha на монтаж противопожарных гипсокартонных конструкций. Действителен до 19.06.2027. (№ K-C-2024/11745)" }
+    }
+  },
+  {
+    "id": "heluz",
+    "image": "/images/certificates/cert-heluz.png",
+    "translations": {
+      "cs": { "title": "HELUZ – Cihelný a kominový systém", "description": "Osvědčení HELUZ o proškolení pro komplexní cihelný systém HELUZ a kominový systém HELUZ. Ing. Evžen Bajer, E-TEK GROUP s.r.o. (2016)" },
+      "en": { "title": "HELUZ – Brick and Chimney Systems", "description": "HELUZ training certificate for the comprehensive HELUZ brick system and HELUZ chimney system. Ing. Evžen Bajer, E-TEK GROUP s.r.o. (2016)" },
+      "uk": { "title": "HELUZ – Цегляна та димарна системи", "description": "Свідоцтво HELUZ про навчання комплексній цегляній та димарній системі HELUZ. Ing. Evžen Bajer, E-TEK GROUP s.r.o. (2016)" },
+      "ru": { "title": "HELUZ – Кирпичная и дымоходная системы", "description": "Свидетельство HELUZ об обучении комплексной кирпичной и дымоходной системе HELUZ. Ing. Evžen Bajer, E-TEK GROUP s.r.o. (2016)" }
+    }
+  },
+  {
+    "id": "weber-2017",
+    "image": "/images/certificates/cert-weber-2017.png",
+    "translations": {
+      "cs": { "title": "Weber Saint-Gobain – osvědčení 2017", "description": "Osvědčení o zaškolení pro aplikaci materiálů Weber: fasádní materiály, ETICS, sanace vlhkého zdiva, podlahové systémy, dlažby a obklady. (2017)" },
+      "en": { "title": "Weber Saint-Gobain – Certificate 2017", "description": "Training certificate for Weber material application: facade materials, ETICS, damp-proofing, floor systems, tiles and cladding. (2017)" },
+      "uk": { "title": "Weber Saint-Gobain – свідоцтво 2017", "description": "Свідоцтво про навчання застосуванню матеріалів Weber: фасадні матеріали, ETICS, санація, підлогові системи, плитка. (2017)" },
+      "ru": { "title": "Weber Saint-Gobain – свидетельство 2017", "description": "Свидетельство об обучении применению материалов Weber: фасадные материалы, ETICS, санация, напольные системы, плитка. (2017)" }
+    }
+  },
+  {
+    "id": "weber-2018",
+    "image": "/images/certificates/cert-weber-2018.png",
+    "translations": {
+      "cs": { "title": "Weber Saint-Gobain – osvědčení 2018", "description": "Osvědčení o zaškolení pro aplikaci materiálů Weber včetně fasádních materiálů, ETICS, sanací vlhkého zdiva a podlahových systémů. (2018)" },
+      "en": { "title": "Weber Saint-Gobain – Certificate 2018", "description": "Training certificate for Weber material application including facade materials, ETICS, moisture remediation and floor systems. (2018)" },
+      "uk": { "title": "Weber Saint-Gobain – свідоцтво 2018", "description": "Свідоцтво про навчання застосуванню матеріалів Weber, включно з фасадними матеріалами, ETICS та підлоговими системами. (2018)" },
+      "ru": { "title": "Weber Saint-Gobain – свидетельство 2018", "description": "Свидетельство об обучении применению материалов Weber, включая фасадные материалы, ETICS и напольные системы. (2018)" }
+    }
+  },
+  {
+    "id": "baumit-zaskoleni",
+    "image": "/images/certificates/cert-baumit-zaskoleni.png",
+    "translations": {
+      "cs": { "title": "Baumit – Protokol o zaškolení", "description": "Protokol Baumit Akademie o zaškolení pro provádění zateplovacích systémů Baumit s omítkami, podlahových potěrů, stěrek a systému Baumacol. (2017)" },
+      "en": { "title": "Baumit – Training Protocol", "description": "Baumit Academy training protocol for installation of Baumit insulation systems, floor screeds, renders and Baumacol system. (2017)" },
+      "uk": { "title": "Baumit – Протокол навчання", "description": "Протокол Baumit Akademie про навчання монтажу утеплювальних систем Baumit, стяжок, штукатурок та системи Baumacol. (2017)" },
+      "ru": { "title": "Baumit – Протокол обучения", "description": "Протокол Baumit Akademie об обучении монтажу утеплительных систем Baumit, стяжек, штукатурок и системы Baumacol. (2017)" }
+    }
+  },
+  {
+    "id": "baumit-zpusobilost",
+    "image": "/images/certificates/cert-baumit-zpusobilost.png",
+    "translations": {
+      "cs": { "title": "Baumit – Certifikát způsobilosti", "description": "Certifikát způsobilosti Baumit pro E-TEK GROUP s.r.o. k provádění zateplovacích systémů Baumit, podlahových potěrů, stěrek a systému Baumacol. (2017)" },
+      "en": { "title": "Baumit – Competency Certificate", "description": "Baumit competency certificate for E-TEK GROUP s.r.o. to perform Baumit insulation systems, floor screeds, renders and Baumacol system. (2017)" },
+      "uk": { "title": "Baumit – Сертифікат придатності", "description": "Сертифікат придатності Baumit для E-TEK GROUP s.r.o. на виконання утеплювальних систем Baumit та системи Baumacol. (2017)" },
+      "ru": { "title": "Baumit – Сертификат компетентности", "description": "Сертификат компетентности Baumit для E-TEK GROUP s.r.o. на выполнение утеплительных систем Baumit и системы Baumacol. (2017)" }
+    }
+  },
+  {
+    "id": "skorsten",
+    "image": "/images/certificates/cert-skorsten.png",
+    "translations": {
+      "cs": { "title": "SKORSTEN – Kominové systémy", "description": "Certifikát Evžena Bajera, E-TEK GROUP s.r.o. o znalostech pro navrhování, prodej a montáž dánských kominových systémů SKORSTEN. (2017)" },
+      "en": { "title": "SKORSTEN – Chimney Systems", "description": "Certificate for Evžen Bajer, E-TEK GROUP s.r.o. confirming expertise in design, sales and installation of Danish SKORSTEN chimney systems. (2017)" },
+      "uk": { "title": "SKORSTEN – Димарні системи", "description": "Сертифікат Євжена Байєра, E-TEK GROUP s.r.o. про знання для проектування, продажу та монтажу данських димарних систем SKORSTEN. (2017)" },
+      "ru": { "title": "SKORSTEN – Дымоходные системы", "description": "Сертификат Евжена Байера, E-TEK GROUP s.r.o. о знаниях для проектирования, продажи и монтажа датских дымоходных систем SKORSTEN. (2017)" }
+    }
+  },
+  {
+    "id": "elevate-tpo",
+    "image": "/images/certificates/cert-elevate-ultrapoly-tpo.png",
+    "translations": {
+      "cs": { "title": "ELEVATE – UltraPly TPO", "description": "Osvědčení o absolvování regionálního školícího programu ELEVATE pro pokrývačský systém UltraPly TPO. Ing. Evžen Bajer, E-TEK GROUP s.r.o." },
+      "en": { "title": "ELEVATE – UltraPly TPO", "description": "Seminar certificate confirming participation in the ELEVATE regional training program for the UltraPly TPO roofing system. Ing. Evžen Bajer, E-TEK GROUP s.r.o." },
+      "uk": { "title": "ELEVATE – UltraPly TPO", "description": "Свідоцтво про участь у регіональній програмі навчання ELEVATE для покрівельної системи UltraPly TPO. Ing. Evžen Bajer, E-TEK GROUP s.r.o." },
+      "ru": { "title": "ELEVATE – UltraPly TPO", "description": "Свидетельство об участии в региональной программе обучения ELEVATE для кровельной системы UltraPly TPO. Ing. Evžen Bajer, E-TEK GROUP s.r.o." }
+    }
+  },
+  {
+    "id": "rako-obkladace",
+    "image": "/images/certificates/cert-rako-obkladace.png",
+    "translations": {
+      "cs": { "title": "RAKO – Certifikát obkladače", "description": "Certifikát obkladače RAKO Servis pro Ing. Evžena Bajera za úspěšné absolvování kurzu zaměřeného na velké formáty v těžkém prostředí. (2024)" },
+      "en": { "title": "RAKO – Tiler Certificate", "description": "RAKO Servis tiler certificate for Ing. Evžen Bajer for successfully completing a course focused on large-format tiles in demanding environments. (2024)" },
+      "uk": { "title": "RAKO – Сертифікат плиточника", "description": "Сертифікат плиточника RAKO Servis для Ing. Evžen Bajer за успішне проходження курсу з великоформатної плитки у складних умовах. (2024)" },
+      "ru": { "title": "RAKO – Сертификат плиточника", "description": "Сертификат плиточника RAKO Servis для Ing. Evžen Bajer за успешное прохождение курса по крупноформатной плитке в сложных условиях. (2024)" }
+    }
+  },
+  {
+    "id": "pci-etics",
+    "image": "/images/certificates/cert-pci-etics.png",
+    "translations": {
+      "cs": { "title": "PCI – ETICS, obklady a dlažby", "description": "Potvrzení v rámci celoživotního vzdělávání ČKAIT o absolvování semináře PCI zaměřeného na specifická systémová řešení ETICS, obkladů a dlažeb. (2024)" },
+      "en": { "title": "PCI – ETICS, Tiles & Cladding", "description": "ČKAIT continuing education confirmation for completing a PCI seminar on specific system solutions for ETICS, cladding and floor tiling. (2024)" },
+      "uk": { "title": "PCI – ETICS, облицювання та плитка", "description": "Підтвердження ČKAIT про участь у семінарі PCI з систем ETICS, облицювання та плитки в рамках безперервного навчання. (2024)" },
+      "ru": { "title": "PCI – ETICS, облицовка и плитка", "description": "Подтверждение ČKAIT об участии в семинаре PCI по системам ETICS, облицовке и плитке в рамках непрерывного обучения. (2024)" }
+    }
+  },
+  {
+    "id": "sika-moderni-stavby",
+    "image": "/images/certificates/cert-sika-moderni-stavby.png",
+    "translations": {
+      "cs": { "title": "Sika – Moderní a bezpečná řešení", "description": "Certifikát Sika CZ s.r.o. pro E-TEK GROUP s.r.o. za školení o moderních zateplovacích systémech PCI MultiTherm a balkónových systémech. (2026)" },
+      "en": { "title": "Sika – Modern & Safe Solutions", "description": "Sika CZ s.r.o. certificate for E-TEK GROUP s.r.o. covering training on modern PCI MultiTherm insulation systems and balcony solutions. (2026)" },
+      "uk": { "title": "Sika – Сучасні та безпечні рішення", "description": "Сертифікат Sika CZ s.r.o. для E-TEK GROUP s.r.o. за навчання сучасним системам утеплення PCI MultiTherm та балконним системам. (2026)" },
+      "ru": { "title": "Sika – Современные и безопасные решения", "description": "Сертификат Sika CZ s.r.o. для E-TEK GROUP s.r.o. за обучение современным системам утепления PCI MultiTherm и балконным системам. (2026)" }
+    }
+  },
+  {
+    "id": "alcadrain",
+    "image": "/images/certificates/cert-alcadrain.png",
+    "translations": {
+      "cs": { "title": "Alcadrain – Mistr instalatér", "description": "Certifikát Evžena Bajera, E-Tek Group s.r.o. za absolvování odborného školení zaměřeného na montáž a údržbu produktů značky Alcadrain. (2024)" },
+      "en": { "title": "Alcadrain – Master Installer", "description": "Certificate for Evžen Bajer, E-Tek Group s.r.o. for completing specialist training focused on installation and maintenance of Alcadrain products. (2024)" },
+      "uk": { "title": "Alcadrain – Майстер-монтажник", "description": "Сертифікат Євжена Байєра, E-Tek Group s.r.o. за проходження спеціалізованого навчання з монтажу та обслуговування продуктів Alcadrain. (2024)" },
+      "ru": { "title": "Alcadrain – Мастер-монтажник", "description": "Сертификат Евжена Байера, E-Tek Group s.r.o. за прохождение специализированного обучения по монтажу и обслуживанию продуктов Alcadrain. (2024)" }
+    }
+  }
+]

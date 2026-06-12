@@ -1,0 +1,158 @@
+{
+  "nav": {
+    "home": "Domů",
+    "about": "O nás",
+    "projects": "Naše projekty",
+    "certificates": "Certifikáty",
+    "contact": "Kontakty"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Stavíme od roku 2010",
+      "subtitle": "Váš spolehlivý partner ve stavebnictví od roku 2010",
+      "ctaProjects": "Naše projekty",
+      "ctaContact": "Kontaktujte nás"
+    },
+    "stats": {
+      "years": "let zkušeností",
+      "projects": "dokončených projektů",
+      "area": "m² postaveno"
+    },
+    "aboutPreview": {
+      "title": "Kdo jsme",
+      "text": "Jsme malá stavební firma s velkým srdcem. Od roku 2010 stavíme rodinné domy, bytové domy, komerční a průmyslové objekty po celé České republice. Zakládáme si na kvalitě, přesnosti a férovém jednání.",
+      "link": "Více o nás"
+    },
+    "projectsPreview": {
+      "title": "Vybrané projekty",
+      "heading": "Realizované stavby",
+      "seeAll": "Zobrazit všechny projekty"
+    }
+  },
+  "about": {
+    "title": "O nás",
+    "subtitle": "Váš spolehlivý stavební partner",
+    "story": {
+      "label": "Náš příběh",
+      "title": "Stavíme s vášní od roku 2010",
+      "text1": "Firma byla založena v roce 2010 jedním stavebním mistrem s vizí vytvářet stavby, které obstojí zkouškou času. Za dvě dekády jsme vyrostli v respektovanou firmu s desítkami spokojených klientů po celé České republice.",
+      "text2": "Každý projekt bereme jako příležitost zanechat trvalou stopu — ať jde o útulný rodinný dům, moderní kancelář nebo veřejnou stavbu, do níž vložíme stejnou míru péče a profesionality."
+    },
+    "values": {
+      "title": "Naše hodnoty",
+      "subtitle": "Co nás definuje",
+      "quality": "Kvalita",
+      "qualityDesc": "Používáme pouze certifikované materiály a ověřené postupy.",
+      "reliability": "Spolehlivost",
+      "reliabilityDesc": "Dodržujeme termíny a dohodnutý rozpočet.",
+      "transparency": "Transparentnost",
+      "transparencyDesc": "Jasná komunikace a férová cena bez skrytých poplatků."
+    },
+    "team": {
+      "title": "Náš tým",
+      "subtitle": "Lidé za projekty",
+      "roles": {
+        "founder": "Zakladatel & CEO",
+        "architect": "Hlavní architektka",
+        "foreman": "Stavbyvedoucí"
+      }
+    }
+  },
+  "projects": {
+    "title": "Naše projekty",
+    "subtitle": "Přehled realizovaných staveb",
+    "filters": {
+      "all": "Vše",
+      "residential": "Rezidenční",
+      "commercial": "Komerční",
+      "industrial": "Průmyslové",
+      "public": "Veřejné"
+    },
+    "area": "Plocha",
+    "year": "Rok",
+    "location": "Místo",
+    "details": "Podrobnosti",
+    "backToProjects": "Zpět na projekty",
+    "gallery": "Galerie",
+    "projectDetails": "Popis projektu"
+  },
+  "certificates": {
+    "title": "Certifikáty",
+    "subtitle": "Naše odborné způsobilosti a ocenění"
+  },
+  "contact": {
+    "title": "Kontakty",
+    "subtitle": "Ozvěte se nám",
+    "infoTitle": "Kontaktní údaje",
+    "formTitle": "Napište nám",
+    "focus": "Zaměření: Stavební práce, kompletní rekonstrukce, stavby na klíč, zateplování fasád a realizace bazénů či krbů.",
+    "address": "Adresa",
+    "phone": "Telefon",
+    "email": "Email",
+    "form": {
+      "name": "Jméno a příjmení",
+      "email": "E-mail",
+      "phone": "Telefon (volitelně)",
+      "message": "Zpráva",
+      "send": "Odeslat zprávu",
+      "sending": "Odesílání...",
+      "success": "Zpráva byla odeslána. Brzy se ozveme!",
+      "error": "Nepodařilo se odeslat zprávu. Zkuste to prosím znovu."
+    },
+    "openingHours": "Pracovní doba",
+    "hours": "Po–Pá: 7:00–17:00"
+  },
+  "cookies": {
+    "title": "Nastavení cookies",
+    "intro": "Tento web používá cookies ke zlepšení vašeho zážitku.",
+    "necessary": {
+      "title": "Nezbytné cookies",
+      "desc": "Tyto cookies jsou nutné pro správnou funkci webu a nelze je vypnout."
+    },
+    "analytics": {
+      "title": "Analytické cookies",
+      "desc": "Pomáhají nám pochopit, jak návštěvníci web používají (Google Analytics)."
+    },
+    "marketing": {
+      "title": "Marketingové cookies",
+      "desc": "Používají se pro zobrazení relevantních reklam."
+    },
+    "saveSettings": "Uložit nastavení",
+    "acceptAll": "Přijmout vše",
+    "rejectAll": "Odmítnout vše"
+  },
+  "cookieBanner": {
+    "text": "Na našem webu používáme soubory cookies, abychom zjistili, jak s webem zacházíte. Kliknutím na Přijmout vyjadřujete Váš souhlas s tímto použitím.",
+    "link": "Zásady ochrany osobních údajů",
+    "accept": "Přijmout",
+    "settings": "Odmítnout"
+  },
+  "footer": {
+    "tagline": "Stavební firma v České republice od roku {year}.",
+    "rights": "Všechna práva vyhrazena",
+    "cookieSettings": "Nastavení cookies",
+    "privacy": "Ochrana osobních údajů"
+  },
+  "meta": {
+    "home": {
+      "title": "ETEK Stavby | Stavební firma Brno a Jihomoravský kraj",
+      "description": "Stavební práce, rekonstrukce a výstavba rodinných domů v Brně a Jihomoravském kraji. Kontaktujte nás pro bezplatnou konzultaci."
+    },
+    "about": {
+      "title": "O nás | ETEK Stavby Brno",
+      "description": "Poznejte tým ETEK Stavby – stavební firmu s tradicí od roku 2010. Kvalita, spolehlivost a transparentnost na každé stavbě v Brně a okolí."
+    },
+    "projects": {
+      "title": "Realizované projekty | ETEK Stavby Brno",
+      "description": "Portfolio realizovaných staveb – rodinné domy, rekonstrukce bytů, komerční a průmyslové stavby v Brně a Jihomoravském kraji."
+    },
+    "certificates": {
+      "title": "Certifikáty a způsobilosti | ETEK Stavby",
+      "description": "Odborné certifikáty a způsobilosti ETEK Stavby potvrzují nejvyšší standardy kvality stavebních prací."
+    },
+    "contact": {
+      "title": "Kontakt | ETEK Stavby Brno",
+      "description": "Kontaktujte ETEK Stavby pro nezávaznou konzultaci. Stavíme v Brně a Jihomoravském kraji. Tel: +420 777 334 401."
+    }
+  }
+}

@@ -1,0 +1,277 @@
+[
+  {
+    "id": "projekt-zimni-zahrada",
+    "slug": "zimni-zahrada",
+    "year": 2024,
+    "category": "residential",
+    "location": "Brno, CZ",
+    "area": 24,
+    "cover": "/images/projects/zimni-zahrada/cover.jpg",
+    "images": [
+      "/images/projects/zimni-zahrada/cover.jpg",
+      "/images/projects/zimni-zahrada/01.jpg",
+      "/images/projects/zimni-zahrada/02.jpg",
+      "/images/projects/zimni-zahrada/03.jpg"
+    ],
+    "translations": {
+      "cs": {
+        "title": "Zimní zahrada",
+        "description": "Výstavba zimní zahrady s dřevěným obkladem stropu, prosklenou střechou a velkoformátovými posuvnými okny s výhledem do zahrady.",
+        "details": "Dřevěný podhled z masivních prken, hliníkové posuvné zasklení, nerezové zábradlí, dlažba terasy."
+      },
+      "en": {
+        "title": "Winter Garden",
+        "description": "Construction of a winter garden with wooden ceiling cladding, glazed roof and large sliding windows overlooking the garden.",
+        "details": "Solid wood ceiling boards, aluminium sliding glazing, stainless steel railing, terrace paving."
+      },
+      "uk": {
+        "title": "Зимовий сад",
+        "description": "Будівництво зимового саду з дерев'яною обшивкою стелі, засклюваним дахом та великогабаритними розсувними вікнами з видом на сад.",
+        "details": "Стеля з масивних дощок, алюмінієве розсувне скління, нержавіюче огородження, тераса з плитки."
+      },
+      "ru": {
+        "title": "Зимний сад",
+        "description": "Строительство зимнего сада с деревянной обшивкой потолка, остеклённой крышей и большими раздвижными окнами с видом на сад.",
+        "details": "Потолок из массивных досок, алюминиевое раздвижное остекление, нержавеющее ограждение, напольная плитка террасы."
+      }
+    }
+  },
+  {
+    "id": "projekt-rekonstrukce-koupelny",
+    "slug": "rekonstrukce-koupelny",
+    "year": 2024,
+    "category": "residential",
+    "location": "Brno, CZ",
+    "area": 9,
+    "cover": "/images/projects/rekonstrukce-koupelny/cover.jpg",
+    "images": [
+      "/images/projects/rekonstrukce-koupelny/cover.jpg",
+      "/images/projects/rekonstrukce-koupelny/01.jpg",
+      "/images/projects/rekonstrukce-koupelny/02.jpg",
+      "/images/projects/rekonstrukce-koupelny/03.jpg"
+    ],
+    "translations": {
+      "cs": {
+        "title": "Rekonstrukce koupelny",
+        "description": "Kompletní rekonstrukce koupelny se sprchovým koutem, závěsným WC, bidetem a moderním dřevěným nábytkem. Čistý, světlý interiér s velkými dlaždicemi.",
+        "details": "Sprchový kout s bezrámovým sklem, závěsné WC a bidet, dřevěná skříňka s umyvadlem, podlahové topení."
+      },
+      "en": {
+        "title": "Bathroom Renovation",
+        "description": "Complete bathroom renovation with shower enclosure, wall-hung WC, bidet and modern wooden furniture. Clean, bright interior with large format tiles.",
+        "details": "Frameless glass shower enclosure, wall-hung WC and bidet, wooden vanity unit, underfloor heating."
+      },
+      "uk": {
+        "title": "Реконструкція ванної кімнати",
+        "description": "Повна реконструкція ванної кімнати з душовою кабіною, підвісним унітазом, біде та сучасними дерев'яними меблями.",
+        "details": "Безрамна скляна душова, підвісний унітаз і біде, дерев'яна тумба з умивальником, тепла підлога."
+      },
+      "ru": {
+        "title": "Реконструкция ванной комнаты",
+        "description": "Полная реконструкция ванной комнаты с душевой кабиной, подвесным унитазом, биде и современной деревянной мебелью.",
+        "details": "Безрамная стеклянная душевая, подвесной унитаз и биде, деревянная тумба с умывальником, тёплый пол."
+      }
+    }
+  },
+  {
+    "id": "projekt-oprava-balkonu",
+    "slug": "oprava-balkonu",
+    "year": 2024,
+    "category": "residential",
+    "location": "Brno, CZ",
+    "area": 18,
+    "cover": "/images/projects/oprava-balkonu/cover.jpg",
+    "images": [
+      "/images/projects/oprava-balkonu/cover.jpg",
+      "/images/projects/oprava-balkonu/01.jpg",
+      "/images/projects/oprava-balkonu/02.jpg",
+      "/images/projects/oprava-balkonu/03.jpg",
+      "/images/projects/oprava-balkonu/04.jpg"
+    ],
+    "translations": {
+      "cs": {
+        "title": "Oprava a rekonstrukce balkonu",
+        "description": "Rekonstrukce balkonu zahrnující sanaci hydroizolace podlahy, pokládku exteriérové dlažby a obklad zdí terasy s pergolou.",
+        "details": "Hydroizolační stěrka, lepení exteriérové dlažby na terasu, obklad zdí keramickými dlaždicemi, pergola."
+      },
+      "en": {
+        "title": "Balcony Repair & Reconstruction",
+        "description": "Balcony reconstruction including waterproofing remediation, exterior paving installation and wall tiling of terrace with pergola.",
+        "details": "Waterproofing membrane, exterior terrace paving, ceramic wall tiling, pergola structure."
+      },
+      "uk": {
+        "title": "Ремонт та реконструкція балкону",
+        "description": "Реконструкція балкону з санацією гідроізоляції підлоги, укладанням зовнішньої плитки та облицюванням стін тераси з перголою.",
+        "details": "Гідроізоляційна мастика, зовнішня тротуарна плитка, керамічне облицювання стін, пергола."
+      },
+      "ru": {
+        "title": "Ремонт и реконструкция балкона",
+        "description": "Реконструкция балкона с санацией гидроизоляции пола, укладкой наружной плитки и облицовкой стен террасы с беседкой.",
+        "details": "Гидроизоляционная мастика, наружная террасная плитка, керамическая облицовка стен, pergola."
+      }
+    }
+  },
+  {
+    "id": "projekt-rekonstrukce-bytu",
+    "slug": "rekonstrukce-bytu",
+    "year": 2023,
+    "category": "residential",
+    "location": "Brno, CZ",
+    "area": 65,
+    "cover": "/images/projects/rekonstrukce-bytu/cover.jpg",
+    "images": [
+      "/images/projects/rekonstrukce-bytu/cover.jpg",
+      "/images/projects/rekonstrukce-bytu/01.jpg",
+      "/images/projects/rekonstrukce-bytu/02.jpg",
+      "/images/projects/rekonstrukce-bytu/03.jpg"
+    ],
+    "translations": {
+      "cs": {
+        "title": "Rekonstrukce bytu",
+        "description": "Kompletní rekonstrukce bytové jednotky zahrnující chodbu s novými interiérovými dveřmi, dvě koupelny — jednu přizpůsobenou pro osoby se sníženou pohyblivostí.",
+        "details": "Bezbariérová sprcha se sklopným sedátkem a madly, kulatý sprchový kout, LED zrcadlo, nové interiérové dveře, laminátová podlaha."
+      },
+      "en": {
+        "title": "Apartment Reconstruction",
+        "description": "Complete apartment reconstruction including hallway with new interior doors and two bathrooms — one adapted for persons with reduced mobility.",
+        "details": "Accessible shower with fold-down seat and grab bars, round shower cabin, LED mirror, new interior doors, laminate flooring."
+      },
+      "uk": {
+        "title": "Реконструкція квартири",
+        "description": "Повна реконструкція квартири, включаючи коридор з новими міжкімнатними дверима та дві ванні кімнати — одна адаптована для маломобільних осіб.",
+        "details": "Безбар'єрний душ зі складним сидінням і поручнями, кругла душова кабіна, LED-дзеркало, нові міжкімнатні двері, ламінат."
+      },
+      "ru": {
+        "title": "Реконструкция квартиры",
+        "description": "Полная реконструкция квартиры, включая коридор с новыми межкомнатными дверями и две ванные комнаты — одна адаптирована для маломобильных лиц.",
+        "details": "Безбарьерный душ с откидным сиденьем и поручнями, круглая душевая кабина, LED-зеркало, новые межкомнатные двери, ламинат."
+      }
+    }
+  },
+  {
+    "id": "projekt-strop-autoservisu",
+    "slug": "strop-autoservisu",
+    "year": 2023,
+    "category": "industrial",
+    "location": "Brno, CZ",
+    "area": 0,
+    "cover": "/images/projects/strop-autoservisu/cover.jpg",
+    "images": [
+      "/images/projects/strop-autoservisu/cover.jpg",
+      "/images/projects/strop-autoservisu/01.jpg",
+      "/images/projects/strop-autoservisu/02.jpg"
+    ],
+    "translations": {
+      "cs": {
+        "title": "Strop autoservisu",
+        "description": "Výstavba železobetonového stropu autoservisu. Armování, bednění a betonáž velkorozponového monolitického stropu nad servisní halou.",
+        "details": "Svařovaná kari síť, dřevěné bednění s podpěrami, betonáž monolitického stropu, HELUZ cihelné zdivo."
+      },
+      "en": {
+        "title": "Car Service Ceiling",
+        "description": "Construction of a reinforced concrete ceiling for a car service hall. Reinforcement, formwork and casting of a large-span monolithic slab.",
+        "details": "Welded reinforcement mesh, timber formwork with props, monolithic slab casting, HELUZ brick walls."
+      },
+      "uk": {
+        "title": "Перекриття автосервісу",
+        "description": "Будівництво залізобетонного перекриття автосервісу. Армування, опалубка та бетонування великопрогонної монолітної плити.",
+        "details": "Зварена арматурна сітка, дерев'яна опалубка з підпірками, монолітне перекриття, цегляна кладка HELUZ."
+      },
+      "ru": {
+        "title": "Перекрытие автосервиса",
+        "description": "Строительство железобетонного перекрытия автосервиса. Армирование, опалубка и бетонирование крупнопролётной монолитной плиты.",
+        "details": "Сварная арматурная сетка, деревянная опалубка с опорами, монолитное перекрытие, кирпичная кладка HELUZ."
+      }
+    }
+  },
+  {
+    "id": "projekt-rekonstrukce-rodinneho-domu",
+    "slug": "rekonstrukce-rodinneho-domu",
+    "year": 2022,
+    "category": "residential",
+    "location": "Brno, CZ",
+    "area": 0,
+    "cover": "/images/projects/rekonstrukce-rodinneho-domu/cover.jpg",
+    "images": [
+      "/images/projects/rekonstrukce-rodinneho-domu/cover.jpg",
+      "/images/projects/rekonstrukce-rodinneho-domu/01.jpg",
+      "/images/projects/rekonstrukce-rodinneho-domu/02.jpg"
+    ],
+    "translations": {
+      "cs": {
+        "title": "Rekonstrukce rodinného domu",
+        "description": "Rozsáhlá rekonstrukce staršího rodinného domu — bourání příček, zdění nových stěn z tvárnic, betonáž stropů a zateplení garáže.",
+        "details": "Zdivo z pórobetonových tvárnic, betonový monolitický strop, tepelná izolace Austrotherm, nová garážová sekce."
+      },
+      "en": {
+        "title": "Family House Reconstruction",
+        "description": "Extensive reconstruction of an older family house — demolition of partitions, new block wall construction, ceiling casting and garage insulation.",
+        "details": "Aerated concrete blockwork, monolithic concrete ceiling, Austrotherm insulation, new garage section."
+      },
+      "uk": {
+        "title": "Реконструкція приватного будинку",
+        "description": "Масштабна реконструкція старого приватного будинку — знесення перегородок, кладка нових стін з блоків, бетонування перекриттів та утеплення гаражу.",
+        "details": "Кладка з газобетонних блоків, монолітне перекриття, теплоізоляція Austrotherm, нова гаражна секція."
+      },
+      "ru": {
+        "title": "Реконструкция частного дома",
+        "description": "Масштабная реконструкция старого частного дома — снос перегородок, кладка новых стен из блоков, бетонирование перекрытий и утепление гаража.",
+        "details": "Кладка из газобетонных блоков, монолитное перекрытие, теплоизоляция Austrotherm, новая гаражная секция."
+      }
+    }
+  },
+  {
+    "id": "projekt-renovace-dveri",
+    "slug": "renovace-dveri",
+    "year": 2023,
+    "category": "residential",
+    "location": "Brno, CZ",
+    "area": 0,
+    "cover": "/images/projects/renovace-dveri/cover.jpg",
+    "images": [
+      "/images/projects/renovace-dveri/cover.jpg"
+    ],
+    "translations": {
+      "cs": {
+        "title": "Renovace vstupních dveří",
+        "description": "Renovace a čalounění vstupních dveří bytu. Instalace zvukově izolačního a protipožárního potahu s nýtovaným lemem.",
+        "details": "Černý čalouněný potah, nýtovaný hliníkový lem po obvodu, zachování původního kování a zámkového systému."
+      },
+      "en": {
+        "title": "Front Door Renovation",
+        "description": "Apartment front door renovation and upholstery. Installation of sound-insulating and fire-resistant cover with riveted trim.",
+        "details": "Black upholstered cover, riveted aluminium trim around perimeter, original hardware and lock system retained."
+      },
+      "uk": {
+        "title": "Реновація вхідних дверей",
+        "description": "Реновація та оббивка вхідних дверей квартири. Встановлення звукоізолюючого та протипожежного покриття з заклепочним обрамленням.",
+        "details": "Чорне оббивне покриття, заклепочне алюмінієве обрамлення по периметру, збереження оригінальної фурнітури."
+      },
+      "ru": {
+        "title": "Реновация входной двери",
+        "description": "Реновация и обивка входной двери квартиры. Установка звукоизолирующего и противопожарного покрытия с заклёпочным обрамлением.",
+        "details": "Чёрное обивочное покрытие, заклёпочное алюминиевое обрамление по периметру, сохранение оригинальной фурнитуры."
+      }
+    }
+  },
+  {
+    "id": "projekt-stuttgart-strecha",
+    "slug": "stuttgart-strecha",
+    "year": 2024,
+    "category": "industrial",
+    "location": "Stuttgart, DE",
+    "area": 0,
+    "cover": "/images/projects/projekt-stuttgart-strecha/cover.jpg",
+    "images": [
+      "/images/projects/projekt-stuttgart-strecha/1.jpg",
+      "/images/projects/projekt-stuttgart-strecha/2.jpg",
+      "/images/projects/projekt-stuttgart-strecha/3.jpg"
+    ],
+    "translations": {
+      "cs": { "title": "Stuttgart — střecha", "description": "Rekonstrukce střechy ve Stuttgartu.", "details": "" },
+      "en": { "title": "Stuttgart — roof", "description": "Roof reconstruction in Stuttgart.", "details": "" },
+      "uk": { "title": "Штутгарт — дах", "description": "Реконструкція даху в Штутгарті.", "details": "" },
+      "ru": { "title": "Штутгарт — крыша", "description": "Реконструкция крыши в Штутгарте.", "details": "" }
+    }
+  }
+]

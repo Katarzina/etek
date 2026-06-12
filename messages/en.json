@@ -1,0 +1,158 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "projects": "Our projects",
+    "certificates": "Certificates",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Building since 2010",
+      "subtitle": "Your reliable construction partner since 2010",
+      "ctaProjects": "Our projects",
+      "ctaContact": "Contact us"
+    },
+    "stats": {
+      "years": "years of experience",
+      "projects": "completed projects",
+      "area": "m² built"
+    },
+    "aboutPreview": {
+      "title": "Who we are",
+      "text": "We are a small construction company with a big heart. Since 2010 we have been building family houses, apartment buildings, commercial and industrial structures across the Czech Republic. We pride ourselves on quality, precision and fair dealing.",
+      "link": "More about us"
+    },
+    "projectsPreview": {
+      "title": "Selected projects",
+      "heading": "Completed constructions",
+      "seeAll": "View all projects"
+    }
+  },
+  "about": {
+    "title": "About us",
+    "subtitle": "Your reliable construction partner",
+    "story": {
+      "label": "Our story",
+      "title": "Building with passion since 2010",
+      "text1": "The company was founded in 2010 by a master builder with a vision to create structures that stand the test of time. Over two decades we have grown into a respected firm with dozens of satisfied clients across the Czech Republic.",
+      "text2": "We treat every project as an opportunity to leave a lasting mark — whether it is a cosy family home, a modern office or a public building, we put the same level of care and professionalism into all of them."
+    },
+    "values": {
+      "title": "Our values",
+      "subtitle": "What defines us",
+      "quality": "Quality",
+      "qualityDesc": "We use only certified materials and proven procedures.",
+      "reliability": "Reliability",
+      "reliabilityDesc": "We meet deadlines and the agreed budget.",
+      "transparency": "Transparency",
+      "transparencyDesc": "Clear communication and fair pricing with no hidden fees."
+    },
+    "team": {
+      "title": "Our team",
+      "subtitle": "The people behind the projects",
+      "roles": {
+        "founder": "Founder & CEO",
+        "architect": "Lead Architect",
+        "foreman": "Site Manager"
+      }
+    }
+  },
+  "projects": {
+    "title": "Our projects",
+    "subtitle": "Overview of completed constructions",
+    "filters": {
+      "all": "All",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "industrial": "Industrial",
+      "public": "Public"
+    },
+    "area": "Area",
+    "year": "Year",
+    "location": "Location",
+    "details": "Details",
+    "backToProjects": "Back to projects",
+    "gallery": "Gallery",
+    "projectDetails": "Project description"
+  },
+  "certificates": {
+    "title": "Certificates",
+    "subtitle": "Our professional qualifications and awards"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch",
+    "infoTitle": "Contact details",
+    "formTitle": "Write to us",
+    "focus": "Focus: Construction works, complete renovations, turnkey buildings, facade insulation and installation of pools or fireplaces.",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "form": {
+      "name": "Full name",
+      "email": "E-mail",
+      "phone": "Phone (optional)",
+      "message": "Message",
+      "send": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent. We will get back to you soon!",
+      "error": "Failed to send message. Please try again."
+    },
+    "openingHours": "Opening hours",
+    "hours": "Mon–Fri: 7:00–17:00"
+  },
+  "cookies": {
+    "title": "Cookie settings",
+    "intro": "This website uses cookies to improve your experience.",
+    "necessary": {
+      "title": "Necessary cookies",
+      "desc": "These cookies are required for the website to function properly and cannot be disabled."
+    },
+    "analytics": {
+      "title": "Analytics cookies",
+      "desc": "Help us understand how visitors use the website (Google Analytics)."
+    },
+    "marketing": {
+      "title": "Marketing cookies",
+      "desc": "Used to display relevant advertisements."
+    },
+    "saveSettings": "Save settings",
+    "acceptAll": "Accept all",
+    "rejectAll": "Reject all"
+  },
+  "cookieBanner": {
+    "text": "We use cookies on our website to find out how you interact with it. By clicking Accept, you express your consent to this use.",
+    "link": "Privacy Policy",
+    "accept": "Accept",
+    "settings": "Settings"
+  },
+  "footer": {
+    "tagline": "Construction company in the Czech Republic since {year}.",
+    "rights": "All rights reserved",
+    "cookieSettings": "Cookie settings",
+    "privacy": "Privacy policy"
+  },
+  "meta": {
+    "home": {
+      "title": "ETEK Stavby | Construction Company Brno, Czech Republic",
+      "description": "Professional construction services, renovations and residential building in Brno and South Moravia, Czech Republic. Contact us today."
+    },
+    "about": {
+      "title": "About Us | ETEK Stavby Brno",
+      "description": "Meet the ETEK Stavby team – a construction company with tradition since 2010. Quality, reliability and transparency on every project in Brno."
+    },
+    "projects": {
+      "title": "Our Projects | ETEK Stavby Brno",
+      "description": "Portfolio of completed projects – family houses, apartment renovations, commercial and industrial construction in Brno and South Moravia."
+    },
+    "certificates": {
+      "title": "Certificates | ETEK Stavby",
+      "description": "ETEK Stavby's professional certificates confirm the highest quality standards in construction."
+    },
+    "contact": {
+      "title": "Contact | ETEK Stavby Brno",
+      "description": "Contact ETEK Stavby for a free consultation. We build in Brno and South Moravia. Tel: +420 777 334 401."
+    }
+  }
+}
