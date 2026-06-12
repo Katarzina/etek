@@ -1,4 +1,5 @@
 import createMiddleware from 'next-intl/middleware';
+import { NextRequest } from 'next/server';
 import { locales, defaultLocale } from './i18n';
 
 const handleI18n = createMiddleware({
@@ -8,9 +9,11 @@ const handleI18n = createMiddleware({
   localeDetection: false,
 });
 
-export function proxy(request: Parameters<typeof handleI18n>[0]) {
+export function proxy(request: NextRequest) {
   return handleI18n(request);
 }
+
+export default proxy;
 
 export const config = {
   matcher: ['/((?!api|_next|_vercel|.*\\..*).*)'],
