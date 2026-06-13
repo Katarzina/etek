@@ -38,8 +38,10 @@ function Counter({ to, suffix = '' }: { to: number; suffix?: string }) {
 export function StatsBar() {
   const t = useTranslations('home.stats');
 
+  const yearsOfExperience = new Date().getFullYear() - 2010;
+
   const stats = [
-    { value: 21, suffix: '+', label: t('years') },
+    { value: yearsOfExperience, suffix: '+', label: t('years') },
     { value: 80, suffix: '+', label: t('projects') },
     { value: 8850, suffix: '', label: t('area') },
   ];

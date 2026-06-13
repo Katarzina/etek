@@ -73,14 +73,9 @@ export async function Footer({ locale }: { locale: string }) {
       <div className="border-t border-stone-800">
         <div className="max-w-7xl mx-auto px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-gray-600">
           <span>© 2017 ETEK. {t('rights')}.</span>
-          <div className="flex gap-5">
-            <Link href={`/${locale}/cookies`} className="hover:text-white transition-colors">
-              {t('cookieSettings')}
-            </Link>
-            <Link href={`/${locale}/cookies`} className="hover:text-white transition-colors">
-              {t('privacy')}
-            </Link>
-          </div>
+          <Link href={`/${locale}/cookies`} className="hover:text-gray-400 transition-colors">
+            {t('privacy')}
+          </Link>
         </div>
       </div>
     </footer>

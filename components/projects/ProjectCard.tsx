@@ -45,9 +45,8 @@ export function ProjectCard({ project, locale, categoryLabel, detailLabel }: Pro
         </h3>
         <p className="text-sm text-gray-500 mb-4 line-clamp-2">{t.description}</p>
 
-        <div className="mt-auto flex items-center justify-between text-xs text-gray-400">
+        <div className="mt-auto text-xs text-gray-400">
           <span>{project.location} · {project.year}</span>
-          {project.area > 0 && <span>{project.area.toLocaleString('cs-CZ')} m²</span>}
         </div>
 
         <span

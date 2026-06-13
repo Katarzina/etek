@@ -21,11 +21,6 @@ export default async function AboutPage() {
     { key: 'transparency', icon: '💡', title: t('values.transparency'), desc: t('values.transparencyDesc') },
   ];
 
-  const team = [
-    { name: 'Jan Novák',        role: t('team.roles.founder'),   img: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80' },
-    { name: 'Petra Svobodová',  role: t('team.roles.architect'), img: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80' },
-    { name: 'Tomáš Dvořák',    role: t('team.roles.foreman'),   img: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80' },
-  ];
 
   return (
     <main className="flex flex-col flex-1">
@@ -73,24 +68,22 @@ export default async function AboutPage() {
         </div>
       </section>
 
-      {/* Team */}
+      {/* Quote */}
       <section className="py-24 bg-white">
-        <div className="max-w-7xl mx-auto px-6">
-          <div className="text-center mb-14">
-            <p className="text-xs uppercase tracking-[0.2em] text-stone-400 mb-3">{t('team.title')}</p>
-            <h2 className="font-heading text-3xl font-semibold text-stone-900">{t('team.subtitle')}</h2>
+        <div className="max-w-3xl mx-auto px-6 text-center">
+          <p className="text-xs uppercase tracking-[0.2em] text-stone-400 mb-10">{t('quote.label')}</p>
+          <blockquote className="relative">
+            <span className="absolute -top-6 left-0 text-8xl text-stone-100 font-serif leading-none select-none">&ldquo;</span>
+            <p className="font-heading text-2xl text-stone-800 leading-relaxed italic relative z-10">
+              {t('quote.text')}
+            </p>
+          </blockquote>
+          <div className="mt-8 flex items-center justify-center gap-4">
+            <div className="h-px w-12 bg-stone-300" />
+            <p className="text-sm font-medium text-stone-700">Evžen Bajer</p>
+            <div className="h-px w-12 bg-stone-300" />
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-3xl mx-auto">
-            {team.map(({ name, role, img }) => (
-              <div key={name} className="text-center">
-                <div className="relative w-32 h-32 rounded-full overflow-hidden mx-auto mb-4">
-                  <Image src={img} alt={name} fill sizes="128px" className="object-cover" />
-                </div>
-                <p className="font-semibold text-stone-900">{name}</p>
-                <p className="text-sm text-stone-400 mt-1">{role}</p>
-              </div>
-            ))}
-          </div>
+          <p className="text-xs text-stone-400 mt-1">{t('quote.role')}</p>
         </div>
       </section>
     </main>

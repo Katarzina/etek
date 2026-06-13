@@ -16,11 +16,11 @@
     "stats": {
       "years": "years of experience",
       "projects": "completed projects",
-      "area": "m² built"
+      "area": "m² renovated"
     },
     "aboutPreview": {
       "title": "Who we are",
-      "text": "We are a small construction company with a big heart. Since 2010 we have been building family houses, apartment buildings, commercial and industrial structures across the Czech Republic. We pride ourselves on quality, precision and fair dealing.",
+      "text": "We are a construction company from Brno specialising in renovations of flats, houses and commercial spaces. Since 2010 we have focused on quality workmanship, meeting deadlines and fair dealing.",
       "link": "More about us"
     },
     "projectsPreview": {
@@ -34,9 +34,9 @@
     "subtitle": "Your reliable construction partner",
     "story": {
       "label": "Our story",
-      "title": "Building with passion since 2010",
-      "text1": "The company was founded in 2010 by a master builder with a vision to create structures that stand the test of time. Over two decades we have grown into a respected firm with dozens of satisfied clients across the Czech Republic.",
-      "text2": "We treat every project as an opportunity to leave a lasting mark — whether it is a cosy family home, a modern office or a public building, we put the same level of care and professionalism into all of them."
+      "title": "Quality and reliability since 2010",
+      "text1": "The company was founded in 2010 and from day one has specialised in quality renovations, refurbishments and construction works. Over the years we have earned the trust of dozens of clients across the Czech Republic.",
+      "text2": "We care that every structure we build — whether a family home, an office or a public building — serves its owners well for years to come. Into every project we put all our experience, attention to detail and full professional responsibility."
     },
     "values": {
       "title": "Our values",
@@ -48,14 +48,10 @@
       "transparency": "Transparency",
       "transparencyDesc": "Clear communication and fair pricing with no hidden fees."
     },
-    "team": {
-      "title": "Our team",
-      "subtitle": "The people behind the projects",
-      "roles": {
-        "founder": "Founder & CEO",
-        "architect": "Lead Architect",
-        "foreman": "Site Manager"
-      }
+    "quote": {
+      "label": "Our philosophy",
+      "text": "Every project we take on, we treat as our own. I care that the client is satisfied — not just at handover, but ten years down the line. Whether we build or renovate, we always work with full responsibility.",
+      "role": "Founder, E-Tek Group s.r.o."
     }
   },
   "projects": {
@@ -78,7 +74,7 @@
   },
   "certificates": {
     "title": "Certificates",
-    "subtitle": "Our professional qualifications and awards"
+    "subtitle": "Official confirmation of qualifications"
   },
   "contact": {
     "title": "Contact",
@@ -102,24 +98,37 @@
     "openingHours": "Opening hours",
     "hours": "Mon–Fri: 7:00–17:00"
   },
-  "cookies": {
-    "title": "Cookie settings",
-    "intro": "This website uses cookies to improve your experience.",
-    "necessary": {
-      "title": "Necessary cookies",
-      "desc": "These cookies are required for the website to function properly and cannot be disabled."
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "Personal data processing policy",
+    "controller": {
+      "title": "Data controller",
+      "text": "The data controller is E-Tek Group s.r.o., Registration No.: 29221463, registered address Příkop 838/6, 602 00 Brno, Czech Republic. Email: etekbajer@gmail.com."
     },
-    "analytics": {
-      "title": "Analytics cookies",
-      "desc": "Help us understand how visitors use the website (Google Analytics)."
+    "data": {
+      "title": "What data we process",
+      "text": "We process only the data you provide via the contact form: your name, email address and the text of your enquiry. Phone number is optional. We do not perform any tracking or visitor analytics."
     },
-    "marketing": {
-      "title": "Marketing cookies",
-      "desc": "Used to display relevant advertisements."
+    "purpose": {
+      "title": "Purpose of processing",
+      "text": "We use your data solely to respond to your enquiry or request. We do not send unsolicited commercial messages."
     },
-    "saveSettings": "Save settings",
-    "acceptAll": "Accept all",
-    "rejectAll": "Reject all"
+    "retention": {
+      "title": "Data retention",
+      "text": "We retain personal data for as long as necessary to resolve your enquiry, for a maximum of 1 year from last contact."
+    },
+    "rights": {
+      "title": "Your rights",
+      "text": "You have the right to access, correct, delete (right to be forgotten) or restrict the processing of your data. Simply write to us at our email address."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "text": "This website does not use analytics or marketing cookies. Technically necessary cookies required for website functionality (e.g. language settings) are used on the basis of legitimate interest."
+    },
+    "contact": {
+      "title": "Data protection contact",
+      "text": "If you have any questions regarding the processing of your personal data, please contact us at: etekbajer@gmail.com or in writing at Příkop 838/6, 602 00 Brno, Czech Republic."
+    }
   },
   "cookieBanner": {
     "text": "We use cookies on our website to find out how you interact with it. By clicking Accept, you express your consent to this use.",

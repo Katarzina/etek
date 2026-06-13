@@ -105,8 +105,8 @@
     "translations": {
       "cs": { "title": "SKORSTEN – Kominové systémy", "description": "Certifikát Evžena Bajera, E-TEK GROUP s.r.o. o znalostech pro navrhování, prodej a montáž dánských kominových systémů SKORSTEN. (2017)" },
       "en": { "title": "SKORSTEN – Chimney Systems", "description": "Certificate for Evžen Bajer, E-TEK GROUP s.r.o. confirming expertise in design, sales and installation of Danish SKORSTEN chimney systems. (2017)" },
-      "uk": { "title": "SKORSTEN – Димарні системи", "description": "Сертифікат Євжена Байєра, E-TEK GROUP s.r.o. про знання для проектування, продажу та монтажу данських димарних систем SKORSTEN. (2017)" },
-      "ru": { "title": "SKORSTEN – Дымоходные системы", "description": "Сертификат Евжена Байера, E-TEK GROUP s.r.o. о знаниях для проектирования, продажи и монтажа датских дымоходных систем SKORSTEN. (2017)" }
+      "uk": { "title": "SKORSTEN – Димарні системи", "description": "Сертифікат Evžen Bajer, E-TEK GROUP s.r.o. про знання для проектування, продажу та монтажу данських димарних систем SKORSTEN. (2017)" },
+      "ru": { "title": "SKORSTEN – Дымоходные системы", "description": "Сертификат Evžen Bajer, E-TEK GROUP s.r.o. о знаниях для проектирования, продажи и монтажа датских дымоходных систем SKORSTEN. (2017)" }
     }
   },
   {
@@ -155,8 +155,8 @@
     "translations": {
       "cs": { "title": "Alcadrain – Mistr instalatér", "description": "Certifikát Evžena Bajera, E-Tek Group s.r.o. za absolvování odborného školení zaměřeného na montáž a údržbu produktů značky Alcadrain. (2024)" },
       "en": { "title": "Alcadrain – Master Installer", "description": "Certificate for Evžen Bajer, E-Tek Group s.r.o. for completing specialist training focused on installation and maintenance of Alcadrain products. (2024)" },
-      "uk": { "title": "Alcadrain – Майстер-монтажник", "description": "Сертифікат Євжена Байєра, E-Tek Group s.r.o. за проходження спеціалізованого навчання з монтажу та обслуговування продуктів Alcadrain. (2024)" },
-      "ru": { "title": "Alcadrain – Мастер-монтажник", "description": "Сертификат Евжена Байера, E-Tek Group s.r.o. за прохождение специализированного обучения по монтажу и обслуживанию продуктов Alcadrain. (2024)" }
+      "uk": { "title": "Alcadrain – Майстер-монтажник", "description": "Сертифікат Evžen Bajer, E-Tek Group s.r.o. за проходження спеціалізованого навчання з монтажу та обслуговування продуктів Alcadrain. (2024)" },
+      "ru": { "title": "Alcadrain – Мастер-монтажник", "description": "Сертификат Evžen Bajer, E-Tek Group s.r.o. за прохождение специализированного обучения по монтажу и обслуживанию продуктов Alcadrain. (2024)" }
     }
   }
 ]
