@@ -39,7 +39,7 @@ export default async function AboutPage() {
           </div>
           <div className="relative aspect-[4/3] rounded overflow-hidden">
             <Image
-              src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80"
+              src="/images/projects/zimni-zahrada/04.jpg"
               alt={t('story.label')}
               fill
               sizes="(max-width: 768px) 100vw, 50vw"
