@@ -4,6 +4,7 @@ import { HeroSection } from '@/components/home/HeroSection';
 import { StatsBar } from '@/components/home/StatsBar';
 import { AboutPreview } from '@/components/home/AboutPreview';
 import { ProjectsPreview } from '@/components/home/ProjectsPreview';
+import { ReviewsPreview } from '@/components/home/ReviewsPreview';
 import { buildAlternates } from '@/lib/alternates';
 
 type Props = { params: Promise<{ locale: string }> };
@@ -27,6 +28,7 @@ export default async function HomePage({
       <StatsBar />
       <AboutPreview />
       <ProjectsPreview locale={locale} />
+      <ReviewsPreview locale={locale} />
     </main>
   );
 }
