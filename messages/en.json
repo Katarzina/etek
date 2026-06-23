@@ -4,7 +4,8 @@
     "about": "About us",
     "projects": "Our projects",
     "certificates": "Certificates",
-    "contact": "Contact"
+    "contact": "Contact",
+    "reviews": "Reviews"
   },
   "home": {
     "hero": {
@@ -98,6 +99,27 @@
     "openingHours": "Opening hours",
     "hours": "Mon–Fri: 7:00–17:00"
   },
+  "reviews": {
+    "title": "Reviews",
+    "subtitle": "What our clients say",
+    "googleButton": "Review us on Google",
+    "seeAll": "All reviews",
+    "empty": "No reviews yet.",
+    "form": {
+      "heading": "Write a review",
+      "name": "Your name",
+      "rating": "Rating",
+      "text": "Your comment",
+      "send": "Submit review",
+      "sending": "Sending...",
+      "success": "Thank you! Your review has been submitted and will appear shortly.",
+      "error": "Failed to send. Please try again."
+    },
+    "preview": {
+      "title": "Client reviews",
+      "heading": "What our clients say"
+    }
+  },
   "privacy": {
     "title": "Privacy Policy",
     "subtitle": "Personal data processing policy",
@@ -162,6 +184,10 @@
     "contact": {
       "title": "Contact | ETEK Stavby Brno",
       "description": "Contact ETEK Stavby for a free consultation. We build in Brno and South Moravia. Tel: +420 777 334 401."
+    },
+    "reviews": {
+      "title": "Reviews | ETEK Stavby",
+      "description": "Read reviews from ETEK Stavby clients and share your experience."
     }
   }
 }
