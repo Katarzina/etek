@@ -14,11 +14,12 @@ export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   const links = [
-    { href: `/${locale}`,            label: t('home') },
-    { href: `/${locale}/o-nas`,      label: t('about') },
-    { href: `/${locale}/projekty`,   label: t('projects') },
-    { href: `/${locale}/certifikaty`,label: t('certificates') },
-    { href: `/${locale}/kontakty`,   label: t('contact') },
+    { href: `/${locale}`,             label: t('home') },
+    { href: `/${locale}/o-nas`,       label: t('about') },
+    { href: `/${locale}/projekty`,    label: t('projects') },
+    { href: `/${locale}/certifikaty`, label: t('certificates') },
+    { href: `/${locale}/recenze`,     label: t('reviews') },
+    { href: `/${locale}/kontakty`,    label: t('contact') },
   ];
 
   return (
