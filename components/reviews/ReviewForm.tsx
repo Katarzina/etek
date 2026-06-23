@@ -83,6 +83,32 @@ export function ReviewForm() {
         />
       </div>
 
+      <div>
+        <label className="block text-sm font-medium text-stone-700 mb-1.5">{t('social')}</label>
+        <input
+          name="social_url"
+          type="url"
+          placeholder="https://facebook.com/vas.profil"
+          className="w-full border border-gray-200 rounded px-4 py-2.5 text-sm focus:outline-none focus:border-stone-500 transition-colors"
+        />
+        <p className="text-xs text-gray-400 mt-1.5">{t('socialHint')}</p>
+        <div className="flex items-center gap-2 mt-2">
+          {[
+            { label: 'Facebook', color: '#1877F2' },
+            { label: 'Instagram', color: '#E1306C' },
+            { label: 'LinkedIn', color: '#0A66C2' },
+          ].map(({ label, color }) => (
+            <span
+              key={label}
+              className="text-xs px-2 py-0.5 rounded-full border border-gray-200 text-gray-500"
+              style={{ borderColor: color, color }}
+            >
+              {label}
+            </span>
+          ))}
+        </div>
+      </div>
+
       {status === 'error' && (
         <p className="text-red-600 text-sm">{t('error')}</p>
       )}

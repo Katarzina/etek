@@ -7,13 +7,14 @@ type Review = {
   text: string;
   rating: number;
   created_at: string;
+  social_url?: string | null;
 };
 
 export async function ReviewsGrid({ limit, emptyMessage }: { limit?: number; emptyMessage: string }) {
   const rows = (
     limit
-      ? await sql`SELECT id, name, text, rating, created_at FROM reviews WHERE approved = TRUE ORDER BY created_at DESC LIMIT ${limit}`
-      : await sql`SELECT id, name, text, rating, created_at FROM reviews WHERE approved = TRUE ORDER BY created_at DESC`
+      ? await sql`SELECT id, name, text, rating, created_at, social_url FROM reviews WHERE approved = TRUE ORDER BY created_at DESC LIMIT ${limit}`
+      : await sql`SELECT id, name, text, rating, created_at, social_url FROM reviews WHERE approved = TRUE ORDER BY created_at DESC`
   ) as Review[];
 
   if (rows.length === 0) {

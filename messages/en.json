@@ -113,7 +113,9 @@
       "send": "Submit review",
       "sending": "Sending...",
       "success": "Thank you! Your review has been submitted and will appear shortly.",
-      "error": "Failed to send. Please try again."
+      "error": "Failed to send. Please try again.",
+      "social": "Social profile link (optional)",
+      "socialHint": "Paste a link to your profile — we'll show the network icon next to your name"
     },
     "preview": {
       "title": "Client reviews",

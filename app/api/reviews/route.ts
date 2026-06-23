@@ -6,7 +6,7 @@ import { COMPANY } from '@/lib/config';
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 export async function POST(request: Request) {
-  const { name, text, rating } = await request.json();
+  const { name, text, rating, social_url } = await request.json();
 
   if (!name || !text || !rating) {
     return NextResponse.json({ error: 'Missing required fields' }, { status: 400 });
@@ -17,8 +17,10 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: 'Invalid rating' }, { status: 400 });
   }
 
+  const socialUrl = social_url?.trim() || null;
+
   await sql`
-    INSERT INTO reviews (name, text, rating) VALUES (${name}, ${text}, ${ratingNum})
+    INSERT INTO reviews (name, text, rating, social_url) VALUES (${name}, ${text}, ${ratingNum}, ${socialUrl})
   `;
 
   await resend.emails.send({
